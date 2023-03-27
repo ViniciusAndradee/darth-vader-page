@@ -51,6 +51,10 @@ a:hover {
     color: #a71313;
 }
 
+p {
+    color: #a5a2a2;
+}
+
 img.logo {
     /*float: left;*/
     padding: 8px 25px;

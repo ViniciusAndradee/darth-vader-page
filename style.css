@@ -96,7 +96,7 @@ img.logo {
     background: linear-gradient(150deg, #532626 30%, #4d1818 50%, #2e0303);
 }
 
-.section-2 p {
+.section-2 p, .section-2 h2 {
     color: #a5a2a2;
 }
 
